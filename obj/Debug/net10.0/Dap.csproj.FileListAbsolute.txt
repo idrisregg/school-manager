@@ -1,0 +1,14 @@
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\bin\Debug\net10.0\Dap.exe
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\bin\Debug\net10.0\Dap.deps.json
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\bin\Debug\net10.0\Dap.runtimeconfig.json
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\bin\Debug\net10.0\Dap.dll
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\bin\Debug\net10.0\Dap.pdb
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\Dap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\Dap.AssemblyInfoInputs.cache
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\Dap.AssemblyInfo.cs
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\Dap.csproj.CoreCompileInputs.cache
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\Dap.dll
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\refint\Dap.dll
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\Dap.pdb
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\Dap.genruntimeconfig.cache
+C:\Users\ayubr\OneDrive\Desktop\IDRIS\Dap\obj\Debug\net10.0\ref\Dap.dll
