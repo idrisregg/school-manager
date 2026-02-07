@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c2498cbe614e5c18de5ac57cdc0a0a8a2bf8d18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+636cdf36de1efa2f7f526e45279cf2ed14082cbf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

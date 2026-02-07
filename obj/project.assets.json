@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\Dap\\Dap.csproj",
+      "projectUniqueName": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\Dap.csproj",
       "projectName": "Dap",
-      "projectPath": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\Dap\\Dap.csproj",
+      "projectPath": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\Dap.csproj",
       "packagesPath": "C:\\Users\\ayubr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\Dap\\obj\\",
+      "outputPath": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ayubr\\AppData\\Roaming\\NuGet\\NuGet.Config"
