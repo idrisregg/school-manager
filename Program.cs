@@ -1,12 +1,13 @@
 ﻿using dap.root;
 namespace dap;
 
-public class Program :App
+public class Program : App
 {
 
 
     public static async Task Main(string[] args)
     {
+        Console.ForegroundColor = ConsoleColor.DarkCyan;
         //call seed data on start 
         AddData();
 
