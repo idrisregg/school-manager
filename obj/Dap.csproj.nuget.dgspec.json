@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\Dap.csproj": {}
+    "C:\\Users\\ayubr\\school-manager\\Dap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\Dap.csproj": {
+    "C:\\Users\\ayubr\\school-manager\\Dap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\Dap.csproj",
+        "projectUniqueName": "C:\\Users\\ayubr\\school-manager\\Dap.csproj",
         "projectName": "Dap",
-        "projectPath": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\Dap.csproj",
+        "projectPath": "C:\\Users\\ayubr\\school-manager\\Dap.csproj",
         "packagesPath": "C:\\Users\\ayubr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayubr\\OneDrive\\Desktop\\IDRIS\\school-manager\\obj\\",
+        "outputPath": "C:\\Users\\ayubr\\school-manager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayubr\\AppData\\Roaming\\NuGet\\NuGet.Config"

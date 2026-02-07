@@ -15,7 +15,7 @@ interface IShowPerf
     }
 }
 
-public class App
+public class App : IShowPerf
 {
 
 
