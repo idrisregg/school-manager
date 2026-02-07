@@ -44,7 +44,7 @@ public class NetworkDelay
 
 
     // simulate delay for payment like is in real world app
-    public static void SimualteNetworkDelay()
+    public static void SimulateNetworkDelay()
     {
         var ran = new Random();
         var rand = ran.Next(MinDelay, MaxDelay);
@@ -54,7 +54,7 @@ public class NetworkDelay
 
     public static void PayEntity(string entity, string name, ref int balance, int income)
     {
-        SimualteNetworkDelay();
+        SimulateNetworkDelay();
         balance += income;
         System.Console.WriteLine($"Paid {entity}: {name}. Total balance: {balance}");
     }
